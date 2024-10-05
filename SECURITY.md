@@ -6,7 +6,7 @@ If you discover a security vulnerability, we encourage you to report it as soon 
 
 ### How to Report
 
-- Email us at: [security@mobileinfra.co](mailto:security@mobileinfra.co)
+- Email us at: [security@opensource.macvm.io](mailto:security@opensource.macvm.io)
 - Provide as much detail as possible, including:
   - A detailed description of the vulnerability
   - The project and version affected
