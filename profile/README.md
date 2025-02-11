@@ -12,5 +12,5 @@ Whether you're a developer, DevOps engineer, or simply curious about macOS virtu
 
 - [Explore our repositories](https://github.com/macvmio)
 - Join our [macvm Slack](https://join.slack.com/t/macvmio/shared_invite/zt-2ucambk2r-Ij470jYyavnobe5hyYClHQ)
-- [Contribute code](https://github.com/macvmio/.github/blob/main/CONTRIBUTING.md)
+- [Contribute code and ideas](https://github.com/macvmio/.github/blob/main/CONTRIBUTING.md)
 - Spread the word!
